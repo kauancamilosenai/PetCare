@@ -7,7 +7,7 @@ export default function Perfil(){
     return(
         <div>
             <br></br>
-                <h2>Perfil Kauan</h2>
+                <h3>Perfil Kauan</h3>
                 <p>Nome: {kauan.nome}</p>
                 <p>idade: {kauan.idade}</p>
         </div>
